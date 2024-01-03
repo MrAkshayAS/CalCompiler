@@ -31,5 +31,4 @@ Create a text file for ex : **input.txt** and your calcution
    ```bash
     node cal input.txt
 
-
 ###### also one this I just create this project for learning how to create Compiler and how it work .
