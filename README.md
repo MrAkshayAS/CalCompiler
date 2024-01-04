@@ -26,7 +26,7 @@ Create a text file for ex : **input.txt** and your calcution
    
 1. Intall node :
    ```bash
-      npm init -y
+      npm i
 2. Run :
    ```bash
     node cal input.txt
